@@ -1,0 +1,2 @@
+# tuyJjInIRJ
+本系统是一款基于Springboot+Vue的前后端分离仓库管理系统，适用于高效管理仓库数据。核心功能包括对仓库物品的入库、出库、库存管理等操作，实现数据实时更新与查询。基于MySQL数据库，采用Java语言开发，结合Vue和Element-UI提供友好的用户界面，Springboot和MyBatisPuls确保后端的高效稳定。系统旨在提高仓库管理效率，优化库存控制流程。
